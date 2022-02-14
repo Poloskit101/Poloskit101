@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poloskit101
 - 👀 I’m interested in ... cryptocurrency, Networking,Graphics and animations, Biometric Access control, Attendance systems and CCTV installations and maintenance  
 - 🌱 I’m currently learning ... Digital skills 
-- 💞️ I’m looking to collaborate on ... ICT, Cryptocurrency, Graphics and Animation and Securities and surviellance technician
+- 💞️ I’m looking to collaborate on ... ICT, Cryptocurrency, Graphics and Animation and Securities and surviellance technician(Hikvision/ZkTeco and other products)
 - 📫 How to reach me ... On twitter @Phreshkyd1
 
 <!---
